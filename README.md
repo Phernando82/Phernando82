@@ -23,7 +23,7 @@
 
 - 👨‍💻 🗂️ My portfolio:
 
-<div align="center">
+<div align="left">
 <a href="https://phernando82.github.io/portfolio/index-es.html" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
